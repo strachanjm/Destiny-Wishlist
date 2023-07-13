@@ -2,3 +2,4 @@ title:TheGuardianLord's wishlist file.
 description:These weapons are community sourced from Light.gg but not in Voltron.
 dimwishlist:item=1248372789&perks=839105230,106909392,1583705720,4049631843
 dimwishlist:item=927835311&perks=839105230,2420895100,3643424744,3891536761,1281216113
+dimwishlist:item=4039572196&perks=2846385770,365154968,2120661319
